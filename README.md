@@ -41,3 +41,5 @@ I created an interactive and insightful visualization using Tableau.
 
 * There should be enhanced communication with guests who have booked but are at risk of canceling. Provide discounts or incentives to encourage them to retain their reservations.
  
+The dashboard can be found here
+https://public.tableau.com/app/profile/miracle.nwadiaru/viz/HotelReservationAnalysis_17020331056380/reservationanalysis?publish=yes
