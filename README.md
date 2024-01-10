@@ -6,10 +6,11 @@ This is the second project in FLIT apprenticeship projectized learning. The data
 
 # Steps
 
-## Data Import and Data Exploration:
+## Data Import and Data Exploration
 I created a database to import the data. Explore the dataset to understand its characteristics, identify any anomalies, and ensure data quality. Utilize SQL queries to extract meaningful information from the database. Analyze booking patterns, customer demographics, popular room types, and revenue generation.
 ## Tableau Visualization 
 I created an interactive and insightful visualization using Tableau.
+![Hotel Reservation analysis in Tableau 1](https://github.com/miraclenwadiaru/Hotel-Reservation-Analysis-in-SQL-and-Tableau/assets/128008498/5dcdd984-f481-4d6a-9e88-63b2be56e17b)
 
 # Insights
 * There was an increase in revenue from 2015 ($6,672804.21) to 2016 ($17, 329800.36), and there was a reduction in revenue in 2017 ($14, 390331.06).
